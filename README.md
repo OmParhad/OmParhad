@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**OmParhad/OmParhad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Om, and I’m currently pursuing a B.Sc. in AI & Data Science at IIT Jodhpur.
+I’m interested in building practical technology, documenting knowledge, and exploring the intersection of web, AI, and cyber.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on ...
+- Impact — a platform for coding & science-related content
+- Dark Web: Code 404 — a short thriller series exploring cyber themes
+- Personal research notes organized in GitBook 
+ 
+🌱 I’m currently learning ...
+- SQL & Database Systems
+- Full-Stack Development
+- Machine Learning Concepts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧩 Area of interest 
+- Artificial Intelligence & Data Science
+- Full-Stack Web Development
+- Applied Research & Technical Writing
+  
+👯 I’m looking to collaborate on ...
+- Web & software projects
+- Technical writing/documentation
+- Research-oriented project
+
+ 📫 How to reach me: ...
+- website: https://omparhad.code.blog/
+- Email: omparhad4@gmail.com
+

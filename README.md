@@ -5,7 +5,7 @@ I’m interested in building practical technology, documenting knowledge, and ex
 
 🔭 I’m currently working on ...
 - AnonThread An Anonimous threading platform for Anonimous communication
-- 
+- AI Engineerroadmap.io, an AI learning platform. Beginner to start in Artificial Intelligence  
 
  
 🌱 I’m currently learning ...

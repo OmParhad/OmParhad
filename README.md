@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name is Om, and I’m currently pursuing a B.Sc. in AI & Data Science at IIT Jodhpur.
-I’m interested in building practical technology, documenting knowledge, and exploring the intersection of web, AI, and cyber.
+I’m interested in building practical technology, documenting knowledge, and exploring the intersection of web and AI.
  
 I’m currently learning ...
 - SQL & Database Systems

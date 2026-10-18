@@ -11,7 +11,7 @@
   <a href="mailto:omparhad@proton.me">
     <img src="https://img.shields.io/badge/ProtonMail-omparhad%40proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://peerlist.io/@omparhad" target="_blank">
+  <a href="https://peerlist.io/omparhad" target="_blank">
     <img src="https://img.shields.io/badge/Peerlist-00AA45?style=for-the-badge&logo=peerlist&logoColor=white" alt="Peerlist" />
   </a>
   <a href="https://linkedin.com/in/omparhad" target="_blank">
@@ -60,4 +60,4 @@ My name is Om, and I'm currently pursuing a B.Sc. in AI & Data Science at IIT Jo
 - **Website:** [omparhad.code.blog](https://omparhad.code.blog/)
 - **Portfolio:** [omparhad.github.io](https://omparhad.github.io/)
 - **Email:** [omparhad@proton.me](mailto:omparhad@proton.me)
-- **Peerlist:** [@omparhad](https://peerlist.io/@omparhad)
+- **Peerlist:** [omparhad](https://peerlist.io/omparhad)
